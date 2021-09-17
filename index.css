@@ -1,0 +1,16 @@
+.button-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.title{
+    font-size: large;
+}
+
+
+
+button{
+    color: coral;
+    margin-top: 5px;
+    margin-right: 5px;
+}
